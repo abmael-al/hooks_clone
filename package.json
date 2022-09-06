@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/abmael-al/hooks_clone/issues"
   },
-  "homepage": "https://github.com/abmael-al/hooks_clone#readme",
-  "devDependencies": {
-    "typescript": "^4.8.2"
-  }
+  "homepage": "https://github.com/abmael-al/hooks_clone#readme"
 }
